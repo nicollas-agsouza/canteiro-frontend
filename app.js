@@ -1,4 +1,4 @@
-const API = 'http://localhost:3000/api/plants';
+const API = 'https://canteiro-backend.onrender.com/api/plants';
 
 // ─── DOM refs ───────────────────────────────────────────────
 const form        = document.getElementById('plant-form');
