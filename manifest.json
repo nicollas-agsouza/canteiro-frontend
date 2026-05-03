@@ -1,0 +1,21 @@
+{
+  "name": "Canteiro",
+  "short_name": "Canteiro",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f3ee",
+  "theme_color": "#3d5a3e",
+  "description": "Diário minimalista para cuidar das suas plantas.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
